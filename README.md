@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Griffins Mudenyo</h1>
-<h3 align="center">Kenyan | CS Student | Software Engineer | Cybersecurity Enthusiast Passionate Kenyan pursuing computer science with a focus on software engineering and cybersecurity. Proficient in C, C++, Java, JavaScript, and Shell scripting. Experienced in full-stack development and database management. Actively contribute to open-source projects. Let's collaborate on cutting-edge tech!</h3>
+<h3 align="center">Kenyan | CS Student | Software Engineer | Cybersecurity Enthusiast Passionate Kenyan pursuing computer science with a focus on software engineering and cybersecurity. Proficient in C, C++, Java, JavaScript, and Shell scripting. Experienced in database management. Actively contribute to open-source projects. Let's collaborate on cutting-edge tech!</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/techgriffo" target="blank"><img src="https://img.shields.io/twitter/follow/techgriffo?logo=twitter&style=for-the-badge" alt="techgriffo" /></a> </p>
