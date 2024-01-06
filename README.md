@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Griffins Mudenyo</h1>
 <h3 align="center">Kenyan | CS Student | Software Engineer | Cybersecurity Enthusiast Passionate Kenyan pursuing computer science with a focus on software engineering and cybersecurity. 
   Proficient in C, C++, Java, JavaScript, and Shell scripting. Experienced in database management. Actively contribute to open-source projects. Let's collaborate on cutting-edge tech!</h3>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=TechGriffo254&label=Profile%20views&color=0e75b6&style=flat" alt="TechGriffo254" /> </p>
 
   [![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@34af7b01-c7bd-47a1-b409-c0cbf245d7cc)
 
