@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Griffins Mudenyo</h1>
-<h3 align="center">Kenyan | CS Student | Software Engineer | Cybersecurity Enthusiast 
+<h3 align="center">Kenyan | CS Student | Software Engineer | Cybersecurity Enthusiast
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=TechGriffo254&label=Profile%20views&color=0e75b6&style=flat" alt="TechGriffo254" /> </p>
 
