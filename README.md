@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/techgriffo" target="blank"><img src="https://img.shields.io/twitter/follow/techgriffo?logo=twitter&style=for-the-badge" alt="techgriffo" /></a> </p>
 
 - 📫 How to reach me **griffotech254@gmail.com**
-- 00
+
 
 - ⚡ Fun fact **The term "bug" in computer science originated in 1947 when a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction. Engineers taped the moth to the computer logbook with a note that read, "First actual case of bug being found." From that moment on, "debugging" became the term used for fixing computer errors, and the word "bug" became synonymous with a glitch or flaw in a program.**
 
