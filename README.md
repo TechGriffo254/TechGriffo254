@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Griffins Mudenyo</h1>
-<h3 align="center">Kenyan | CS Student | Software Engineer | Cybersecurity Enthusiast
+<h3 align="center">CS Student | Software Engineer | Cybersecurity Enthusiast
 
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=TechGriffo254&label=Profile%20views&color=0e75b6&style=flat" alt="TechGriffo254" /> </p>
@@ -7,9 +7,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://twitter.com/techgriffo" target="blank"><img src="https://img.shields.io/twitter/follow/techgriffo?logo=twitter&style=for-the-badge" alt="techgriffo" /></a> </p>
 
-- 📫 How to reach me **griffotech254@gmail.com**
+
+- 📫 How to reach me **griffotech@griffotech.onmicrosoft.com**
 
 
 - ⚡ Fun fact **The term "bug" in computer science originated in 1947 when a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction. Engineers taped the moth to the computer logbook with a note that read, "First actual case of bug being found." From that moment on, "debugging" became the term used for fixing computer errors, and the word "bug" became synonymous with a glitch or flaw in a program.**
