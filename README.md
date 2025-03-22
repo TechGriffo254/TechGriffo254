@@ -1,7 +1,6 @@
 # 
 <h1 align="center">Hi 👋, I'm Mudenyo Griffins </h1>
 <h3 align="center">secops Enthusiast </h3>
-I am a dedicated computer science student, majoring in networking with a focus on cybersecurity. I'm currently working on an innovative networking project designed to develop a responsive system that alerts ISPs of internet disconnections and provides basic troubleshooting to clients.<br><br>My Journey<br>My passion for technology has led me to immerse myself in the field of cybersecurity. I am always eager to learn and expand my knowledge, driven by the desire to become a proficient cybersecurity professional, often dubbed a "tech bro." My journey has been enriched by completing a comprehensive 12-month software engineering program with ALX Africa, where I specialized in backend development.<br><br>Current Project<br>I am currently working on:<br><br>Developing a responsive system to notify ISPs of internet disconnections<br><br>Providing basic troubleshooting steps to clients to enhance their online experience<br><br>Professional Development<br>ALX Africa: Successfully completed a rigorous 12-month program in software engineering, specializing in backend development<br><br>My Vision<br>I aspire to leverage my expertise in networking and cybersecurity to create resilient, secure, and efficient digital environments. My continuous learning and dedication to the field drive me to explore new technologies and innovative solutions.<br><br>
 
 
 ## 🌐 Socials:
