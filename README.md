@@ -15,16 +15,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Security Operations (SecOps) Enthusiast** and **Backend Developer** from Kenya 🇰🇪, with a strong focus on cybersecurity and innovative technology implementations. Currently working at **Macrawls Bureau & IT Solutions**, I'm dedicated to building secure, scalable applications and contributing to the cybersecurity community.
+I'm a passionate **Security Operations (SecOps) Enthusiast** and **Backend Developer** from Kenya 🇰🇪, with a strong focus on cybersecurity and innovative technology implementations. Currently working at **Safaricom PLC** within the **Cybersecurity Risk Cluster**, I'm dedicated to building secure, scalable applications, managing cyber risks, and contributing to the security community.
 
 ### 🎯 Current Focus
-- 🔐 **Cybersecurity Research & Development**
+- 🔐 **Cybersecurity Risk Management & DevSecOps**
 - 🌱 **IoT Smart Solutions & Automation**
 - 🧠 **Machine Learning Applications**
 - 📚 **Continuous Learning in Emerging Technologies**
 
 ### 💼 Professional Experience
 
+- **Cybersecurity Risk Cluster** at Safaricom PLC
 - **SecOps Specialist** at Macrawls Bureau & IT Solutions
 - **Cybersecurity Researcher** - CEH (Certified Ethical Hacker) Track
 - **Backend Developer** - Specializing in JavaScript, Python, and C#
@@ -170,8 +171,6 @@ I'm a passionate **Security Operations (SecOps) Enthusiast** and **Backend Devel
 - Open Source Security Contributions
 
 ---
-
-
 
 ## 📫 Let's Collaborate!
 
